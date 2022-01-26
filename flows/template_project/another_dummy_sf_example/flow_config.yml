@@ -1,5 +1,0 @@
-labels:
-  - qa
-  - datacore
-image: "localhost:5000/data_core_flows/python38:latest"
-
