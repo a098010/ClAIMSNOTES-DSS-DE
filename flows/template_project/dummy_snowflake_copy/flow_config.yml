@@ -1,0 +1,8 @@
+qa:
+  env_vars:
+    key1: qatest
+    key2: testqa
+prod:
+  env_vars:
+    key1: prodtest
+    key2: testqa

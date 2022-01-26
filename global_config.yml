@@ -1,0 +1,19 @@
+###This is an example.  Please remove comments and change values as necessary
+# dev:
+#   env_vars:
+#     secret_key: snowflake_credentials_zsflk01d.json
+#     secret_bucket: pgr-eds-datacoreresearchsquid-dev-aws0jd-secret
+#     snowflake_env: progressive_dev.us-east-1.privatelink
+
+# qa:
+#   env_vars:
+#     secret_key: snowflake_credentials_zsflk01q.json
+#     secret_bucket: pgr-eds-datacoreresearchsquid-qa-aws0jq-secret
+#     snowflake_env: progressive_qa.us-east-1.privatelink
+
+# prod:
+#   env_vars:
+#     secret_key: snowflake_credentials_zsflk01p.json
+#     secret_bucket: pgr-eds-datacoreresearchsquid-prod-aws0jp-secret
+#     snowflake_env: progressive_prod.us-east-1.privatelink
+
